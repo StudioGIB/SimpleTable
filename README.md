@@ -48,4 +48,4 @@ Mill_Table is licensed under [Creative Commons Attribution 4.0 International Lic
 
 Project Owner : [GIB](http://studiogib.com/)
 
-Mill_Table Design : [Giorgio Gibiino](https://www.instagram.com/jj_nelson/)
+Simple_Table Design : [Giorgio Gibiino](https://www.instagram.com/jj_nelson/)
