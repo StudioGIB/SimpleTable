@@ -33,11 +33,11 @@ V.0.2 - June 2022 - Concept drawings. explanations
 V.0.5 - June 2022 - Dxf/pdf drawings 
 
 V.0.8 - June/july - First prototype build - Forks publishing
-
-V.1.0 -  July - official release
+v.0.9 - May 2024 - Pre-release
+V.1.0 - July 2024 - official release
 
 # Download 
-Go to current [release](https://github.com/StudioGIB/SimpleTable/releases/tag/0.2) to download all the available files
+Go to current [release](https://github.com/StudioGIB/SimpleTable/releases/tag/0.9) to download all the available files
 
 # License
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
